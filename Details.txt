@@ -1,0 +1,19 @@
+Post request for Students
+
+/student
+
+Post request for Staffs
+
+/staff
+
+Get request for Students
+
+/student
+
+Get request for Staffs
+
+/staff
+
+Delete request for StudentDetails
+
+/studentRemove/:id
